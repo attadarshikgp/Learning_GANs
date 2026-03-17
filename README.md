@@ -11,6 +11,4 @@ I've built my foundation in AI by diving into official PyTorch tutorials, starti
 - Autoencoder
 - Simple GAN
 - DCGAN
-- Pix2Pix
-- CycleGAN
-- Custom CycleGAN
+- self project on DCGAn (anime face generator)
