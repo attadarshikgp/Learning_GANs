@@ -11,4 +11,4 @@ I've built my foundation in AI by diving into official PyTorch tutorials, starti
 - Autoencoder
 - Simple GAN
 - DCGAN
-- self project on DCGAn (anime face generator)
+- self project on DCGAN (anime face generator)
